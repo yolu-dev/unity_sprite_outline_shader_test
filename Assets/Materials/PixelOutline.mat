@@ -47,7 +47,7 @@ Material:
     m_Ints: []
     m_Floats:
     - CORNERS: 1
-    - _OutlineTickness: 1
+    - _OutlineTickness: 1.01
     - _Outline_Tickness: 1
     m_Colors:
     - _OutlineColor: {r: 0, g: 1, b: 0.2388534, a: 1}
